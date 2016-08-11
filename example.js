@@ -20,7 +20,7 @@ Globalize.load(cldr("main/hi/currencies"));
 // not Latin numerals should be used.
 // '-u' means extension
 // '-nu' means number
-// '-native' means the use native script
+// '-native' means use native script
 //Without -u-nu-native this example will not work
 //See
 // https://en.wikipedia.org/wiki/IETF_language_tag#Extension_U_.28Unicode_Locale.29
